@@ -4,6 +4,9 @@ Handly AngularJs or Vanilla Javascript DOM selector for single or multiple targe
 
 ## Get started
 
+Include the `bg-Q.js` in your HTML file.
+`<script src="ng-q.js"></script>`
+
 Usage with AngularJS standalone:
 ```
 $('.par, .par1, #hdr').addClass('red').append( "<strong>Hello</strong>" );
